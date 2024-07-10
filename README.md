@@ -2,7 +2,7 @@
 
 This is a group project done for the Human Computer Interaction Module, we use Multinomial Naive Bayes and Dense as the algorithms.
 
-## Introduction
+## Background
 
 - Over the last year, Americans received more than 400 million spam texts per day
 - 68.4 million Americans fell victim to a phone scam. (2022)
